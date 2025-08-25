@@ -12,17 +12,17 @@ const itemsWithItemAtStart = ["Z", ...items];
 console.log(itemsWithItemAtStart);
 //["Z", "A", "B", "C"]
 
-// Add many new items at start
-const itemsWithManyNewItemsAtStart = [...items, "D", "E", "F"];
+// Add many new items at end
+const itemsWithManyNewItemsAtEnd = [...items, "D", "E", "F"];
 
-console.log(itemsWithManyNewItemsAtStart);
+console.log(itemsWithManyNewItemsAtEnd);
 //["A", "B", "C", "D", "E", "F"]
 
 // Add many new items at start
-const itemsWithManyNewItemsAtEnd = ["D", "E", "F", ...items];
+const itemsWithManyNewItemsAtStart = [1, 2, 3, ...items];
 
-console.log(itemsWithManyNewItemsAtEnd);
-//["D", "E", "F", "A", "B", "C"];
+console.log(itemsWithManyNewItemsAtStart);
+//[1, 2, 3, "A", "B", "C"];
 
 // Add new item at specific position
 const index = 2;
