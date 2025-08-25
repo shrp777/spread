@@ -1,5 +1,7 @@
 # Opérateur Spread
 
+Opérateur Spread en JS/TS et concept d'immutabilité.
+
 ```bash
 bun run src/<file.ts>
 ```
