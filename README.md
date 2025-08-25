@@ -1,6 +1,4 @@
-# Opérateurs Spread et Rest
-
-Opérateurs Spread et Rest en JS/TS et concept d'immutabilité.
+# Opérateurs Spread et Rest en JS/TS + concept d'immutabilité
 
 ```bash
 bun run src/<file.ts>
