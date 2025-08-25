@@ -6,6 +6,8 @@ Opérateur Spread en JS/TS et concept d'immutabilité.
 bun run src/<file.ts>
 ```
 
+![spread](./assets/spread.png)
+
 --
 
 !["Logotype Shrp"](https://sherpa.one/images/sherpa-logotype.png)
