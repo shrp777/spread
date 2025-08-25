@@ -1,15 +1,17 @@
-# operateur-spread
-
-To install dependencies:
+# Opérateur Spread
 
 ```bash
-bun install
+bun run src/<file.ts>
 ```
 
-To run:
+--
 
-```bash
-bun run index.ts
-```
+!["Logotype Shrp"](https://sherpa.one/images/sherpa-logotype.png)
 
-This project was created using `bun init` in bun v1.2.20. [Bun](https://bun.com) is a fast all-in-one JavaScript runtime.
+__Alexandre Leroux__  
+_Enseignant / Formateur_  
+_Développeur logiciel web & mobile_
+
+Nancy (Grand Est, France)
+
+<https://shrp.dev>
